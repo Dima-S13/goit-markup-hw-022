@@ -140,7 +140,7 @@ body {
   background: var(--selection-color);
 }
 .menu-item {
-  color: var(--button-list-background);
+  color: var(--second-background-color);
   background-color: var(--background-color);
 }
 .menu-title {
